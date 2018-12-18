@@ -19,5 +19,5 @@ Chest X-ray images (anterior-posterior) were selected from retrospective cohorts
 
 
 
-## Model
-ResNet34 is used for transfer learning for this project.
+## Transfer Learning Model
+ResNet34 (released by Microsoft Research) is used for transfer learning for this project. 
