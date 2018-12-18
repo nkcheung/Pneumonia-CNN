@@ -1,4 +1,5 @@
 # Pneumonia CXR classification with CNN
+## About
 In this project, a deep Convolutional Neural Network is trained to classify normal and pneumonia chest X-rays. An accuracy of 84.84% is reached after 15 epochs of training. The open-source machine learning library, Pytorch, is used and the model is trained using the free K80 Tesla GPU provided on the Google Colaboratory platform.
 
 ## Data
