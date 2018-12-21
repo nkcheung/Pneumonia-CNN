@@ -9,10 +9,10 @@ The dataset is organized into 3 folders (train, test, val) and contains subfolde
 
 Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou Women and Children’s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients’ routine clinical care.
 
-**Normal CXR:**
+**Sample Normal CXR:**
 ![normal2-im-1360-0001 copy 2](https://user-images.githubusercontent.com/44185972/50142754-d375f480-02e5-11e9-87a6-087e83c79f24.jpeg)
 
-**Pneumonia CXR:**
+**Sample Pneumonia CXR:**
 ![person1937_bacteria_4853](https://user-images.githubusercontent.com/44185972/50142898-294a9c80-02e6-11e9-99c6-d59b891d5b22.jpeg)
 
 
